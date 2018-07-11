@@ -22,3 +22,10 @@ The form imports the search function and calls the search function with search t
 ### List
 
 When the search returns a list of albums, list the items as album cards with as much info as you can.
+
+## Usage
+
+```
+npm install
+npm start
+```
